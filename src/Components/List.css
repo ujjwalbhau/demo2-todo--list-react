@@ -1,0 +1,28 @@
+
+.Item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+    width: 180px;
+    height: 20px;
+    border: 1px solid #ededed;
+    border-radius: 2px;
+    padding: 10px;
+    background:rgb(77, 14, 77) ;
+
+}
+.Item p{
+    margin: 0;
+    font-family: fantasy;
+    
+}
+
+.Item button{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    padding: 2px;
+   
+
+}
